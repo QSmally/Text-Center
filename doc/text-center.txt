@@ -1,0 +1,48 @@
+
+
+*text-center*   Text centering plugin for Vim
+
+
+==============================================================================
+CONTENTS                                                        *tcr-contents*
+
+    1. Introduction............................|tcr-introduction|
+    5. Changelog...............................|tcr-changelog|
+    6. Credits.................................|tcr-credits|
+    7. License.................................|tcr-license|
+
+
+==============================================================================
+INTRODUCTION                                                *tcr-introduction*
+
+Cursor placed somewhere between the `|` characters, typing `vi|:CenterText` or
+`vi|C` with the key map:
+
++----------------+      +----------------+
+| foo            | ---> |      foo       |
++----------------+      +----------------+
+
+
+==============================================================================
+CHANGELOG                                                      *tcr-changelog*
+
+= 0.0.1
+    - original snippet
+
+
+==============================================================================
+CREDITS                                                          *tcr-credits*
+
+Maintained by
+
+    Joey Smalen (QSmally, Smally)
+
+Snippet by
+
+    Kent (on StackOverflow)
+
+
+==============================================================================
+LICENSE                                                          *tcr-license*
+
+See Vim license with :h |license|.

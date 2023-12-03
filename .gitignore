@@ -1,0 +1,11 @@
+
+.git
+
+# System
+.DS_Store
+
+# File editor
+Session.vim
+/doc/tags
+*.swp
+*~
